@@ -1,5 +1,2 @@
 profile: dev
-spring:
-  datasource:
-    username: dbuser
-    password: '{cipher}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
+password: '{cipher}9d9f6c34481b4331ef19c15af8c069dc5f078f392dcbab6dc23d92737c50df37'
