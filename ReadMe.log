@@ -1,0 +1,3 @@
+spring cloud config配置信息
+
+如果配置文件中的内容需要加密，需要在Oracle官网下载相关版本jce_policy：http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html
